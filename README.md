@@ -29,6 +29,5 @@ Building autonomous agents, trading/analytics systems, and the occasional experi
 
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad-Sajeem&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Sajeem&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fahad-Sajeem&hide_border=true)
 
 </div>
