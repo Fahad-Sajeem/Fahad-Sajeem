@@ -22,12 +22,3 @@ Building autonomous agents, trading/analytics systems, and the occasional experi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad-Sajeem&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Sajeem&layout=compact&hide_border=true)
-
-</div>
