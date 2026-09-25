@@ -10,10 +10,10 @@ Building autonomous agents, trading/analytics systems, and the occasional experi
 
 | Project | What it does |
 |---|---|
+| [**probe**](https://github.com/PiSquareLabs/probe) | A privacy-safe collective operational memory for software vendors — learns incident→fix patterns across a fleet of isolated deployments from sanitized fingerprints, never raw logs. Built for Elastic × AWS's Forge the Future 2026, with anomaly detectors validated against a live OpenTelemetry demo and a FastAPI+React Jira remediation flow. |
+| [**mudra**](https://github.com/PiSquareLabs/mudra) | A React Native app with a companion Kotlin/Android memory layer and an on-device sign-embeddings module — the largest multi-part project in this profile. |
 | [**Banyan**](https://github.com/Fahad-Sajeem/Banyan) | An autonomous economic agent living in Claude Cowork — has a wallet, a daily "metabolism" that burns money, and one goal: grow the balance or die. Everything is public: ledger, journal, build log. |
 | [**TCN-Trading-Agent**](https://github.com/Fahad-Sajeem/TCN-Trading-Agent) | A Temporal Convolutional Network that predicts resistance breakouts, retests, and continuation moves from BTC/USDT 5-minute candles, with a live WebSocket prediction pipeline. |
-| [**mudra**](https://github.com/PiSquareLabs/mudra) | A React Native app with a companion Kotlin/Android memory layer and an on-device sign-embeddings module — the largest multi-part project in this profile. |
-| [**probe**](https://github.com/PiSquareLabs/probe) | A privacy-safe collective operational memory for software vendors — learns incident→fix patterns across a fleet of isolated deployments from sanitized fingerprints, never raw logs. Built for Elastic × AWS's Forge the Future 2026, with anomaly detectors validated against a live OpenTelemetry demo and a FastAPI+React Jira remediation flow. |
 
 ## 🛠️ Tech stack
 
